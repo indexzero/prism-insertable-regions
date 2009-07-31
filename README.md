@@ -2,7 +2,7 @@
 ---
 
 #### Author: Charlie Robbins, 2008
-"http://www.charlierobbins.com":http://www.charlierobbins.com
+[http://www.charlierobbins.com](http://www.charlierobbins.com)
 
 Last Update: Prism v2 Final
 
